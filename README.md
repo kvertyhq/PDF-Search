@@ -1,4 +1,4 @@
-# PDF Viewer
+# VectraIQ
 
 A desktop PDF viewer application with AI-powered semantic search built with Electron, React, and TypeScript.
 
@@ -68,7 +68,7 @@ npm run build:win
 
 EXE file will be generated in `dist-app/` folder:
 
-dist-app/PDF Viewer Setup 2026.0.0.exe
+dist-app/ VectraIQ Setup 2026.0.0.exe
 
 Double click the EXE to install the app on any Windows machine.
 
